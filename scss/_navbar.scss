@@ -19,7 +19,7 @@
        > a.nav-link,
       > a.nav-link:focus {
         font-size: .9rem;
-        font-weight: 700;
+        font-weight: 1700;
         text-transform: uppercase;
         color: $gray-900;
         &:hover {
@@ -46,7 +46,7 @@
       }
     }
     .navbar-nav > li.nav-item > a.nav-link {
-      padding: 0.5rem 0.7rem;
+      padding: 0.5rem 1rem;
     }
     .navbar-nav > li.nav-item > a.nav-link,
     .navbar-nav > li.nav-item > a.nav-link:focus {
